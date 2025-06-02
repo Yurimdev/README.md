@@ -45,4 +45,4 @@ Documentar e centralizar projetos realizados durante a formação em Engenharia 
 ## ☎️ Contato
 
 - [Perfil no LinkedIn](https://www.linkedin.com/in/yuri-martins-439405365/)  
-- [Perfil no GITHUB]((https://github.com/Yurimdev))  
+- [Perfil no GITHUB](https://github.com/Yurimdev/)  
