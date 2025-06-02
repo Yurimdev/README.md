@@ -1,4 +1,4 @@
-# PortfolioHUB – Cristiano Mundin Borges Júnior
+# PortfolioHUB – Yuri Martins
 
 🎞️ **Apresentação em Slides**  
 [Veja aqui no Google Slides](https://docs.google.com/presentation/d/1rE0LtLtMQ-HIK7wSKU9VtMyF7wczG2D6VD4M7YhDcpU/edit?usp=sharing)
