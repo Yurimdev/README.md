@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-Documentar e centralizar projetos realizados durante a formação em Engenharia de Software, incluindo projetos acadêmicos e pessoais.
+Documentar e centralizar projetos realizados durante a formação em Ciência da computação, incluindo projetos acadêmicos e pessoais.
 
 ---
 
@@ -15,9 +15,6 @@ Documentar e centralizar projetos realizados durante a formação em Engenharia 
 
 - `projetos-faculdade/` – Projetos realizados em disciplinas da graduação  
 - `projetos-pessoais/` – Projetos pessoais ou experimentais  
-- `.gitignore` – Arquivos/pastas ignorados pelo Git  
-- `LICENSE` – Licença de uso do repositório  
-
 ---
 
 ## 🛠️ Habilidades e Competências
